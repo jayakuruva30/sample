@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
-	fmt.Println("hello jaya")
-	fmt.Println("hello nethra")
+	//create an array
+	var a = [4]int{1, 2, 2, 3}
+	fmt.Print(a)
+
 }
